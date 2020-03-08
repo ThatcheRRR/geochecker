@@ -1,1 +1,1 @@
-# geocheker
+# geochecker
